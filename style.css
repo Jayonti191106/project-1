@@ -1,0 +1,68 @@
+.container{
+    margin-bottom: 100px;
+ }
+ .carousel-bg{
+    background-color:#fd69a4;
+    border-radius:10px;
+ 
+ }
+ .carousel-item{
+    padding:40px;
+ }
+ 
+ .price{
+    color:#fd69a4;
+ }
+ .buy-now-button{
+    margin-top: 10px;
+    background-color: linear-gradient(45deg #fd69a4,#ee3680);
+    border: none;
+background-color:palevioletred;
+    border-radius: 8px;  
+    padding: 10px 25px;
+ }
+ .cat1{
+    background-color:orange;
+ }
+ .cat2{
+    background-color: yellow;
+ }
+ .cat3{
+    background-color:peru;
+    
+ }
+ .cat1, .cat2, .cat3{
+    padding: 20px;
+    border-radius: 10px;
+ }
+ .categories{
+ 
+ }
+ .categories h1{
+    color: #171512;
+}
+.categories img{
+   height:250px;
+}
+.card-footer{
+   background-color:palevioletred
+   border:none ;
+
+}
+#contact:{
+   height:300px;
+   
+}
+contact.bg{
+   background-color: #FEEAE9;
+   border-radius:10px;
+.contact-form{
+   border: 10px solid:pink;
+   border-radius: 8px;  
+   padding: 10px 25px;
+
+}
+footer{
+   text-align: center;
+   
+}
